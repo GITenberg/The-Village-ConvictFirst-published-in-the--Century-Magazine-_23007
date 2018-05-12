@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25620'
     url: http://www.gutenberg.org/2009/agents/25620
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23007#The-Village-ConvictFirst-published-in-the--Century-Magazine-
 gutenberg_issued: '2007-10-12'
 gutenberg_type: Text
 identifiers:
